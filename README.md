@@ -1,6 +1,6 @@
 -  👋 Hi,I’m @monishakant
 - 👀 I’m interested in c++ and data science.
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on tech-ed
 - 📫 How to reach me monishasahu22@gmail.com
 
